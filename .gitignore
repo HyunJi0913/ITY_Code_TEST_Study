@@ -1,3 +1,19 @@
+<<<<<<< HEAD
 .idea/
 out/
 *.class
+=======
+# IntelliJ 관련 설정 폴더
+.idea/
+
+# 컴파일 결과물
+out/
+bin/
+
+# 클래스 파일
+*.class
+
+# OS별 불필요한 파일
+.DS_Store
+Thumbs.db
+>>>>>>> 6aa2cd0c694a8527cc34ade0a0f910de6a41a31b
