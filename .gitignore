@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-.idea/
-out/
-*.class
-=======
 # IntelliJ 관련 설정 폴더
 .idea/
 
@@ -16,4 +11,10 @@ bin/
 # OS별 불필요한 파일
 .DS_Store
 Thumbs.db
->>>>>>> 6aa2cd0c694a8527cc34ade0a0f910de6a41a31b
+
+# 모든 상위 폴더 무시
+/*/
+
+# 예외: hwajinee 폴더만 추적
+!hwajinee/
+!hwajinee/**/*
