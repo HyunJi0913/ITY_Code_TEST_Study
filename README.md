@@ -89,7 +89,7 @@ Week00 문제 풀이 / {Github ID}
 | 8주차 | dfs               | [LC] number of islands            | [PGS] 응급차 최단거리             | [LC] shortest path in binary matrix | [PGS] 미로탈출                     | [PGS] 거리두기 확인하기               | [PGS] 보물지도   |
 | 9주차 | bfs               | [PGS] 네트워크                    | [LC] Keys and Rooms               | [PGS] 가장 먼 노드                | [LC] Coin Change                      | [LC] Is Graph Bipartite?              | [PGS] 단어변환   |
 | 10주차 | dfs/bfs 복습 | [PGS] 연속된 부분 수열의 합  | [PGS] 문자열 압축 | [LC] mine sweeper | [LC] Group Anagrams | [BOJ-2697] 숨바꼭질 | [BOJ-2206] 벽 부수고 이동하기 |
-| 11주차 | GreedyAlgorithm | -                                  | -                                  | -                                 | -                                      | -                                      | -                |
+| 11주차 | GreedyAlgorithm | [PGS] 체육복 | [PGS] 큰 수만들기 | [BOJ-1931] 회의실 배정| [BOJ-1541] 잃어버린 괄호 | -                                      | -                |
 | 12주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
 | 13주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
 | 14주차 | 복습              | -                                  | -                                  | -                                 | -                                      | -                                      | -                |
