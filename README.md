@@ -92,4 +92,3 @@ Week00 문제 풀이 / {Github ID}
 | 11주차 | GreedyAlgorithm | [PGS] 체육복 | [PGS] 큰 수만들기 | [BOJ-1931] 회의실 배정| [BOJ-1541] 잃어버린 괄호 | -                                      | -                |
 | 12주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
 | 13주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
-| 14주차 | 복습              | -                                  | -                                  | -                                 | -                                      | -                                      | -                |
