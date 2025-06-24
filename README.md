@@ -90,5 +90,5 @@ Week00 문제 풀이 / {Github ID}
 | 9주차 | bfs               | [PGS] 네트워크                    | [LC] Keys and Rooms               | [PGS] 가장 먼 노드                | [LC] Coin Change                      | [LC] Is Graph Bipartite?              | [PGS] 단어변환   |
 | 10주차 | dfs/bfs 복습 | [PGS] 연속된 부분 수열의 합  | [PGS] 문자열 압축 | [LC] mine sweeper | [LC] Group Anagrams | [BOJ-2697] 숨바꼭질 | [BOJ-2206] 벽 부수고 이동하기 |
 | 11주차 | GreedyAlgorithm | [PGS] 체육복 | [PGS] 큰 수만들기 | [BOJ-1931] 회의실 배정| [BOJ-1541] 잃어버린 괄호 | -                                      | -                |
-| 12주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
+| 12주차 | DynamicProgramming | [BOJ-12865] 평범한 배낭 | [BOJ-1149] RGB거리 | [BOJ-1932] 정수 삼각형 | [BOJ-2579] 계단 오르기 | [BOJ-11726] 2×n 타일링 | -                |
 | 13주차 | DynamicProgramming | -                               | -                                  | -                                 | -                                      | -                                      | -                |
